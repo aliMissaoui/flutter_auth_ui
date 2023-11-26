@@ -1,16 +1,13 @@
 # flutter_auth_ui
 
-A new Flutter project.
+A Flutter Auth UI project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application that contains the module of LOGIN & REGISTER.
 
-A few resources to get you started if this is your first Flutter project:
+### Login Screen
+![login](https://github.com/aliMissaoui/flutter_auth_ui/assets/68671238/8ab28c6b-a64a-41c9-8cd2-865ac30ba882)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Register Screen
+![register](https://github.com/aliMissaoui/flutter_auth_ui/assets/68671238/8feed3a6-a167-4ba5-bbbd-25559192997e)
